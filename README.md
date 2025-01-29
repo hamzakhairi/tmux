@@ -1,4 +1,4 @@
-### **tmux Cheat Sheet (From Creating a Session to Killing It)**  
+### **💡 tmux Cheat Sheet (From Creating a Session to Killing It) 🚀**  
 
 | **Action** | **Command** |
 |------------|------------|
@@ -42,6 +42,3 @@
 | **Kill All Running tmux Sessions** | `tmux kill-server` |
 | **Exit tmux Completely** | `exit` |
 
----
-
-💡 Need any customization or tips? 🚀
